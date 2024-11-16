@@ -4,89 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b1c7907-8486-4b09-8e2d-6fe770960800" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/spring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-aware/src/main/java/com/yang/springaware/TestAware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/annotation/AbstractPostConstruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/annotation/PostConstructT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/applicationContext/MyComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/async/AsyncSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/json/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/json/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/listener/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/listener/DemoListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/listener/InitializingBeanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/listener/RequestHandlerRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/java/com/yang/study/listener/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/test/java/com/yang/study/SpringStudyApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/spring-mvv/src/test/java/com/yang/study/async/AsyncTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/Java-Study/src/main/java/com/yang/json/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/Java-Study/src/main/java/com/yang/json/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/Java-Study/src/main/java/com/yang/stream/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/Java-Study/src/main/java/com/yang/stream/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/lyb/1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/listener/DemoListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetic-study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic-study/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetic-study/src/main/java/com/sxlyb/BeautifulArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic-study/src/main/java/com/sxlyb/BeautifulArrangement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-study/src/main/java/com/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-study/src/main/java/com/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-study/src/main/java/com/java/Timer/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-study/src/main/java/com/java/json/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-study/src/main/java/com/java/listener/MyRobotListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-study/src/main/java/com/java/network/UrlTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-study" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/Java-Study/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/study/Java-Study/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/Java-Study/src/main/java/com/yang/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/Java-Study/src/main/java/com/yang/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/LeetCode-Travel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/LeetCode-Travel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/CheckArithmeticSubarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/CheckArithmeticSubarrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/MaxAncestorDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/MaxAncestorDiff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/MaxWidthOfVerticalArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/MaxWidthOfVerticalArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/countBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/countBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/countVowelStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/countVowelStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/countVowelStrings.md" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/countVowelStrings.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/cuttingSteelBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/cuttingSteelBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/getMaximumGenerated.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/getMaximumGenerated.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/dynamic/maxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/lyb/LongestConsecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LeetCode-Travel/src/main/java/com/yang/lyb/LongestConsecutive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/algorithm-study/16 greedy algorithm/assignCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/algorithm-study/16 greedy algorithm/assignCookies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/algorithm-study/16 greedy algorithm/splitWithMinimumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/algorithm-study/16 greedy algorithm/splitWithMinimumSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/doocsleetcode/.husky/commit-msg" beforeDir="false" afterPath="$PROJECT_DIR$/study/doocsleetcode/.husky/commit-msg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/doocsleetcode/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/study/doocsleetcode/.husky/pre-commit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/leetcode/daily/2019-07-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/study/leetcode/daily/2019-07-19.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/leetcode/problems/198.house-robber.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/study/leetcode/problems/198.house-robber.en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/leetcode/problems/42.trapping-rain-water.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/study/leetcode/problems/42.trapping-rain-water.en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/leetcode/problems/42.trapping-rain-water.md" beforeDir="false" afterPath="$PROJECT_DIR$/study/leetcode/problems/42.trapping-rain-water.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/RequestHandlerRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/RequestHandlerRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/SpringStudyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/SpringStudyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/annotation/AbstractPostConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/annotation/AbstractPostConstruct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/annotation/PostConstructO.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/annotation/PostConstructO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/annotation/PostConstructT.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/src/main/java/com/yang/study/annotation/PostConstructT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/src/test/java/com/yang/study/SpringStudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/src/test/java/com/yang/study/SpringStudyApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/spring-study/src/test/java/com/yang/study/annotation/testPostConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/spring-study/src/test/java/com/yang/study/annotation/testPostConstruct.java" afterDir="false" />
-    </list>
+    <list default="true" id="9b1c7907-8486-4b09-8e2d-6fe770960800" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,13 +13,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "contexts": [
+    {
+      "name": "docker-desktop"
+    }
+  ],
+  "isMigrated": true
+}]]></component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="docker-desktop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2otKSldWxNQPNZMzZYw4m5CNVLX" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
@@ -120,9 +51,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jdxz9\Desktop\study-java\spring\spring-mvv\src\main\java\com\yang\study\a" />
+      <recent name="C:\Users\jdxz9\Desktop\study-java\spring\spring-mvv\src\main\java\com\yang\study" />
+      <recent name="C:\Users\jdxz9\Desktop\study-java\java\src\main\java\com\java\test" />
+    </key>
+  </component>
   <component name="RunManager" selected="Spring Boot.DiscoveryStudyApplication">
     <configuration name="DiscoveryStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="discovery-study" />
@@ -155,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731683433514</updated>
       <workItem from="1731683434579" duration="364000" />
-      <workItem from="1731729889704" duration="1640000" />
+      <workItem from="1731729889704" duration="2961000" />
     </task>
     <servers />
   </component>
@@ -492,5 +431,9 @@
         <option value="$PROJECT_DIR$/study/doocsleetcode/solution/2700-2799/2795.Parallel Execution of Promises for Individual Results Retrieval/Solution.js" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
