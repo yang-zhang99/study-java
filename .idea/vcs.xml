@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/study/Java-Study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/study/LeetCode-Travel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/study/algorithm-study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/study/doocsleetcode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/study/leetcode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/study/spring-study" vcs="Git" />
+  </component>
+</project>
