@@ -5,4 +5,6 @@ spring:
 
 logging:
 #  level:
+server:
+  port: 8050
 #    com.alibaba.nacos: debug

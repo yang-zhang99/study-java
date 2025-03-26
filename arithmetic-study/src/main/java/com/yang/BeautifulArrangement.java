@@ -33,11 +33,10 @@ public class BeautifulArrangement {
         return res;
     }
     
-    
     public static void main(String[] args) {
         BeautifulArrangement beautifulArrangement = new BeautifulArrangement();
+        System.out.println(beautifulArrangement.countArrangement(3));
         System.out.println(beautifulArrangement.countArrangement(2));
-        // System.out.println(beautifulArrangement.countArrangement(3));
-        // System.out.println(beautifulArrangement.countArrangement(4));
+        System.out.println(beautifulArrangement.countArrangement(1));
     }
 }

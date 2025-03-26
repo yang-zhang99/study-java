@@ -15,6 +15,7 @@
         <module>discovery-study</module>
         <module>java</module>
         <module>spring</module>
+        <module>redisson</module>
     </modules>
     
     <properties>
