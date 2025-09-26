@@ -5,33 +5,144 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="911016fa-2bc3-432a-95ae-e3d3a0495fcf" name="更改" comment="[init] 初始化代码整理">
-      <change afterPath="$PROJECT_DIR$/discovery-study/src/main/java/com/yang/nacos/StartupTaskRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/redisson-study-1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/redisson-study-1/src/main/java/com/yang/redissonstudy1/RedissonStudy1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/redisson-study-1/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/redisson-study-1/src/test/java/com/yang/redissonstudy1/RedissonStudy1ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/redisson-study/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/redisson-study/src/main/java/com/yang/redisson/RedissonStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/redisson-study/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisson/redisson-study/src/test/java/com/yang/redisson/RedissonStudyApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/ConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/H2Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/ResultSetPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/Timer/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/date/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/AlphabetBoardPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/BestHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/EqualSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/FindLongestChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/Generate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/GetFolderNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/LongestWPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/MinTaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/MinimumDeletions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/NumberOfPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/PrintBin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/SillCups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/leetcode/StoneGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/listener/Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/listener/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/listener/RobotListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/listener/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/mysql/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/network/socker/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/network/socker/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/spring/Boot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/spring/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/string/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/json/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/json/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/stream/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/stream/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter15/Chapter15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter15/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter15/ObservableThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter15/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter15/TaskLifecycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter16/EatNoodleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter16/FlightSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter16/FlightSecurityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter16/Tableware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter17/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter17/ReadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter17/ReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter17/ReadWriteLockImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter17/WriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter18/IntegerAccumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter19/Future.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter20/GuardedSuspensionQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter23/CountDownLatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter23/Latch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/thread/chapter23/ProgrammerTravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/test/zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/thread/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/thread/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/thread/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetic-study/src/main/java/com/yang/BeautifulArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic-study/src/main/java/com/yang/BeautifulArrangement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-study/src/main/java/com/yang/nacos/DiscoveryStudyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-study/src/main/java/com/yang/nacos/DiscoveryStudyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-study/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-study/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/ConsumerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/H2Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/ResultSetPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/Timer/MyTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/date/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/json/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/AlphabetBoardPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/BestHand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/EqualSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/FindLongestChain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/Generate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/GetFolderNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/LongestPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/LongestWPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/MinTaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/MinimumDeletions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/NumberOfPairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/PrintBin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/SillCups.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/leetcode/StoneGameII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/listener/Even.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/listener/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/listener/RobotListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/listener/TestListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/mysql/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/network/socker/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/network/socker/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/spring/Boot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/spring/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/string/StringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/Goods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/ListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/fu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/json/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/json/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/stream/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/stream/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter15/Chapter15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter15/Observable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter15/ObservableThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter15/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter15/TaskLifecycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter16/EatNoodleThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter16/FlightSecurity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter16/FlightSecurityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter16/Tableware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter17/Lock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter17/ReadLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter17/ReadWriteLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter17/ReadWriteLockImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter17/WriteLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter18/IntegerAccumulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter19/Future.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter20/GuardedSuspensionQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter23/CountDownLatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter23/Latch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/thread/chapter23/ProgrammerTravel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/test/zi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/thread/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/thread/Demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/java/thread/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/spring-mvv/src/test/java/com/yang/study/SpringStudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring-mvv/src/test/java/com/yang/study/SpringStudyApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +236,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
         <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="useMavenConfig" value="false" />
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
@@ -135,7 +248,6 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2hPGNDvxEORwgGi0P9E3JkhYHFN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -186,18 +298,20 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yang99/Desktop/spring-all-study/arithmetic/src/main/java/com/sxlyb/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.35402298&quot;,
     &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;应用程序.BeautifulArrangement.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Boot.executor&quot;: &quot;Debug&quot;,
     &quot;应用程序.ConsumerTest.executor&quot;: &quot;Debug&quot;,
     &quot;应用程序.StringTest.executor&quot;: &quot;Debug&quot;,
     &quot;应用程序.Test.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Test1.executor&quot;: &quot;Debug&quot;
+    &quot;应用程序.Test1.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.Test2.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.com.java.json.Test.executor&quot;: &quot;Debug&quot;
   }
 }</component>
   <component name="ReactorSettings">
@@ -224,7 +338,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.BeautifulArrangement">
+  <component name="RunManager" selected="应用程序.com.java.json.Test">
     <configuration name="BeautifulArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yang.BeautifulArrangement" />
       <module name="arithmetic-study" />
@@ -238,12 +352,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.ConsumerTest" />
+    <configuration name="BeautifulArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yang.BeautifulArrangement" />
+      <module name="arithmetic-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.string.StringTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.*" />
+          <option name="PATTERN" value="com.java.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,23 +404,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AsyncTest.out" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.json.Test2" />
+      <module name="demo-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yang.study.async.*" />
+          <option name="PATTERN" value="com.java.json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yang.study.async" />
-      <option name="MAIN_CLASS_NAME" value="com.yang.study.async.AsyncTest" />
-      <option name="METHOD_NAME" value="out" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.json.Test2" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.date.Test" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.java.json.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.json.Test" />
+      <module name="demo-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.java.json.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.json.Test" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.nacos.DiscoveryStudyApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -312,6 +490,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RedissonStudy1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="redisson-study-1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.redissonstudy1.RedissonStudy1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedissonStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="redisson-study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.redisson.RedissonStudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RedissonStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="redisson-study" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.redisson.RedissonStudyApplication" />
@@ -320,6 +512,20 @@
       </method>
     </configuration>
     <configuration name="SpringAwareApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-aware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.springaware.SpringAwareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAwareApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-aware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.springaware.SpringAwareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAwareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="spring-aware" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.springaware.SpringAwareApplication" />
       <method v="2">
@@ -340,8 +546,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.study.SpringStudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.AsyncTest.out" />
       <item itemvalue="Spring Boot.DiscoveryStudyApplication" />
       <item itemvalue="Spring Boot.RedissonStudy1Application" />
       <item itemvalue="Spring Boot.RedissonStudyApplication" />
@@ -349,25 +561,26 @@
       <item itemvalue="Spring Boot.SpringAwareApplication" />
       <item itemvalue="Spring Boot.SpringStudyApplication" />
       <item itemvalue="应用程序.BeautifulArrangement" />
-      <item itemvalue="应用程序.ConsumerTest" />
       <item itemvalue="应用程序.StringTest" />
+      <item itemvalue="应用程序.Test2" />
       <item itemvalue="应用程序.Test" />
+      <item itemvalue="应用程序.com.java.json.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.com.java.json.Test" />
+        <item itemvalue="应用程序.Test2" />
         <item itemvalue="应用程序.BeautifulArrangement" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.StringTest" />
-        <item itemvalue="JUnit.AsyncTest.out" />
-        <item itemvalue="应用程序.ConsumerTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
       </set>
     </attachedChunks>
   </component>
@@ -488,6 +701,27 @@
       <workItem from="1738888408688" duration="3000" />
       <workItem from="1738909935985" duration="109000" />
       <workItem from="1738910054802" duration="1387000" />
+      <workItem from="1742975062162" duration="134000" />
+      <workItem from="1747122863356" duration="3509000" />
+      <workItem from="1747133065571" duration="1087000" />
+      <workItem from="1747135001839" duration="68000" />
+      <workItem from="1747136226689" duration="12440000" />
+      <workItem from="1747229535984" duration="713000" />
+      <workItem from="1747292415754" duration="18000" />
+      <workItem from="1747301913522" duration="486000" />
+      <workItem from="1747380437618" duration="3943000" />
+      <workItem from="1747407151497" duration="416000" />
+      <workItem from="1747407577658" duration="18000" />
+      <workItem from="1747407976780" duration="103000" />
+      <workItem from="1747408199721" duration="1359000" />
+      <workItem from="1747439394458" duration="7651000" />
+      <workItem from="1747497670108" duration="692000" />
+      <workItem from="1747657828801" duration="724000" />
+      <workItem from="1747663858687" duration="24000" />
+      <workItem from="1747701706317" duration="2899000" />
+      <workItem from="1747811304836" duration="1197000" />
+      <workItem from="1747875964666" duration="598000" />
+      <workItem from="1758848028466" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="[init]">
       <option name="closed" value="true" />
@@ -545,7 +779,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728370692341</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[init] 初始化代码整理">
+      <option name="closed" value="true" />
+      <created>1742975165098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742975165098</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -641,6 +883,31 @@
           <url>file://$PROJECT_DIR$/redisson/redisson-study/src/main/java/com/yang/redisson/RedissonStudyApplication.java</url>
           <line>32</line>
           <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
+          <line>245</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
+          <line>231</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
+          <line>215</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
+          <line>229</line>
+          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

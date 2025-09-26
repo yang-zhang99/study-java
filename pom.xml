@@ -12,10 +12,10 @@
     
     <modules>
         <module>arithmetic-study</module>
+        <module>demo-study</module>
         <module>discovery-study</module>
-        <module>java</module>
         <module>spring</module>
-        <module>redisson</module>
+        <!--        <module>redisson</module>-->
     </modules>
     
     <properties>
@@ -42,7 +42,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
+    
     <repositories>
         <repository>
             <id>spring</id>
