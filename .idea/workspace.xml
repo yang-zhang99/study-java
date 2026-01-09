@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="911016fa-2bc3-432a-95ae-e3d3a0495fcf" name="更改" comment="[init] 初始化代码整理">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/ClassI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/JavaBaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/JavaBaseApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -85,9 +90,10 @@
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/4.1.2/spring-cloud-commons-4.1.2-sources.jar!/org/springframework/cloud/client/serviceregistry/AbstractAutoServiceRegistration.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="KubernetesApiProvider">{
-  &quot;contexts&quot;: [
+  &quot;configuredContexts&quot;: [
     {
-      &quot;name&quot;: &quot;docker-desktop&quot;
+      &quot;name&quot;: &quot;docker-desktop&quot;,
+      &quot;kubeConfigUrl&quot;: &quot;file:///Users/yang99/.kube/config&quot;
     }
   ],
   &quot;isMigrated&quot;: true
@@ -118,67 +124,70 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BeautifulArrangement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.构建 spring-aware.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP 请求.generated-requests | #1.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP 请求.generated-requests | #2.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP 请求.generated-requests | #37.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP 请求.generated-requests | #38.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP 请求.generated-requests | #39.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AsyncTest.out.executor&quot;: &quot;Debug&quot;,
-    &quot;Maven.spring-all-study [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.spring-aware [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.spring-aware [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.spring-study [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.spring-study [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.study-java [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.study-java [install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.study-java [package].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;Spring Boot.DiscoveryStudyApplication (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Spring Boot.DiscoveryStudyApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;Spring Boot.NacosStudyApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;Spring Boot.RedissonStudyApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;Spring Boot.SpringAwareApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringStudyApplication.executor&quot;: &quot;Run&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yang99/Desktop/study-java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yang99/Desktop/spring-all-study/arithmetic/src/main/java/com/sxlyb/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.35402298&quot;,
-    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.BeautifulArrangement.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Boot.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.ConsumerTest.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.StringTest.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Test.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Test1.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.Test2.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.com.java.json.Test.executor&quot;: &quot;Debug&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BeautifulArrangement.executor": "Debug",
+    "Application.Main.executor": "Debug",
+    "Gradle.构建 spring-aware.executor": "Run",
+    "HTTP 请求.generated-requests | #1.executor": "Run",
+    "HTTP 请求.generated-requests | #2.executor": "Run",
+    "HTTP 请求.generated-requests | #37.executor": "Run",
+    "HTTP 请求.generated-requests | #38.executor": "Run",
+    "HTTP 请求.generated-requests | #39.executor": "Run",
+    "JUnit.AsyncTest.out.executor": "Debug",
+    "Maven.spring-all-study [package].executor": "Run",
+    "Maven.spring-aware [clean].executor": "Run",
+    "Maven.spring-aware [package].executor": "Run",
+    "Maven.spring-study [clean].executor": "Run",
+    "Maven.spring-study [package].executor": "Run",
+    "Maven.study-java [clean].executor": "Run",
+    "Maven.study-java [install].executor": "Run",
+    "Maven.study-java [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "Spring Boot.DiscoveryStudyApplication (1).executor": "Debug",
+    "Spring Boot.DiscoveryStudyApplication.executor": "Debug",
+    "Spring Boot.JavaBaseApplication.executor": "Run",
+    "Spring Boot.NacosStudyApplication.executor": "Debug",
+    "Spring Boot.RedissonStudyApplication.executor": "Debug",
+    "Spring Boot.SpringAwareApplication.executor": "Run",
+    "Spring Boot.SpringStudyApplication.executor": "Run",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/yang99/Desktop/study-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/yang99/Desktop/spring-all-study/arithmetic/src/main/java/com/sxlyb/Main.java",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.35402298",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.BeautifulArrangement.executor": "Run",
+    "应用程序.Boot.executor": "Debug",
+    "应用程序.ClassA.executor": "Debug",
+    "应用程序.ConsumerTest.executor": "Debug",
+    "应用程序.StringTest.executor": "Debug",
+    "应用程序.Test.executor": "Debug",
+    "应用程序.Test1.executor": "Debug",
+    "应用程序.Test2.executor": "Debug",
+    "应用程序.com.java.json.Test.executor": "Debug",
+    "应用程序.main.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -203,7 +212,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.com.java.json.Test">
+  <component name="RunManager" selected="应用程序.main">
     <configuration name="BeautifulArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yang.BeautifulArrangement" />
       <module name="arithmetic-study" />
@@ -230,38 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.string.StringTest" />
-      <module name="java-study" />
+    <configuration name="ClassA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.base.java.ClassA" />
+      <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.string.StringTest" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.date.Test" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.date.*" />
+          <option name="PATTERN" value="com.base.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,6 +310,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.java.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.base.java.main" />
+      <module name="java-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.base.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,26 +422,26 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.JavaBaseApplication" />
       <item itemvalue="Spring Boot.DiscoveryStudyApplication" />
+      <item itemvalue="Spring Boot.JavaBaseApplication" />
       <item itemvalue="Spring Boot.RedissonStudy1Application" />
       <item itemvalue="Spring Boot.RedissonStudyApplication" />
       <item itemvalue="Spring Boot.SpringAwareApplication (1)" />
       <item itemvalue="Spring Boot.SpringAwareApplication" />
       <item itemvalue="Spring Boot.SpringStudyApplication" />
+      <item itemvalue="应用程序.main" />
       <item itemvalue="应用程序.BeautifulArrangement" />
-      <item itemvalue="应用程序.StringTest" />
+      <item itemvalue="应用程序.ClassA" />
       <item itemvalue="应用程序.Test2" />
-      <item itemvalue="应用程序.Test" />
       <item itemvalue="应用程序.com.java.json.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.main" />
+        <item itemvalue="应用程序.ClassA" />
         <item itemvalue="应用程序.com.java.json.Test" />
         <item itemvalue="应用程序.Test2" />
         <item itemvalue="应用程序.BeautifulArrangement" />
-        <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.StringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -596,7 +592,15 @@
       <workItem from="1747875964666" duration="598000" />
       <workItem from="1758848028466" duration="4495000" />
       <workItem from="1758867790027" duration="4173000" />
-      <workItem from="1758954361958" duration="3610000" />
+      <workItem from="1758954361958" duration="9446000" />
+      <workItem from="1759075680013" duration="617000" />
+      <workItem from="1759108160739" duration="2300000" />
+      <workItem from="1761792449353" duration="1217000" />
+      <workItem from="1761815831667" duration="597000" />
+      <workItem from="1761893079568" duration="13000" />
+      <workItem from="1762735443999" duration="5897000" />
+      <workItem from="1762846958191" duration="6000" />
+      <workItem from="1764747077126" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="[init]">
       <option name="closed" value="true" />
@@ -670,7 +674,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758848684194</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[init] 初始化代码整理">
+      <option name="closed" value="true" />
+      <created>1759020787082</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759020787082</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -791,6 +803,11 @@
           <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
           <line>229</line>
           <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-base/src/main/java/com/base/java/JavaBaseApplication.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="134" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
