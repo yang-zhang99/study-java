@@ -14,6 +14,7 @@
         <module>arithmetic-study</module>
         <module>demo-study</module>
         <module>discovery-study</module>
+        <module>redisson-study</module>
         <module>spring</module>
         <!--        <module>redisson</module>-->
     </modules>

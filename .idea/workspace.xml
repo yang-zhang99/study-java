@@ -4,369 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="911016fa-2bc3-432a-95ae-e3d3a0495fcf" name="更改" comment="[init] 初始化代码整理">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="41e1e354-12bd-4e7f-b13a-455b8e5a6b66" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/ClassI.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/ClassI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/JavaBaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-study/src/main/java/com/java/JavaBaseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/src/test/java/com/base/java/JavaBaseApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring-aware/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring-aware/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring-aware/src/main/java/com/yang/springaware/SpringAwareApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring-aware/src/main/java/com/yang/springaware/SpringAwareApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redisson/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redisson/redisson-study-1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redisson/redisson-study-1/src/main/java/com/yang/redissonstudy1/RedissonStudy1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redisson/redisson-study-1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redisson/redisson-study-1/src/test/java/com/yang/redissonstudy1/RedissonStudy1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redisson/redisson-study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/redisson-study/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redisson/redisson-study/src/main/java/com/yang/redisson/RedissonStudyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/redisson-study/src/main/java/com/yang/redisson/RedissonStudyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redisson/redisson-study/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/redisson-study/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redisson/redisson-study/src/test/java/com/yang/redisson/RedissonStudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/redisson-study/src/test/java/com/yang/redisson/RedissonStudyApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/redisson-study">
-      <ProjectState />
-    </projectState>
-    <projectState path="$PROJECT_DIR$/spring/spring-aware">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="spring-beans.schema" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;yang-zhang99&quot;
-  }
-}</component>
-  <component name="GitToolBoxStore">
-    <option name="recentBranches">
-      <RecentBranches>
-        <option name="branchesForRepo">
-          <list>
-            <RecentBranchesForRepo>
-              <option name="branches">
-                <list>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1719299103" />
-                  </RecentBranch>
-                </list>
-              </option>
-              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/spring-study" />
-            </RecentBranchesForRepo>
-          </list>
-        </option>
-      </RecentBranches>
-    </option>
-  </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/yang-zhang99/study-java.git&quot;,
-    &quot;accountId&quot;: &quot;77b0f468-d0cb-471b-bcd8-9e92d435101e&quot;
-  }
-}</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.1.0/spring-cloud-starter-alibaba-nacos-discovery-2023.0.1.0-sources.jar!/com/alibaba/cloud/nacos/registry/NacosAutoServiceRegistration.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/3.1.5/spring-boot-3.1.5-sources.jar!/org/springframework/boot/SpringApplication.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/4.1.2/spring-cloud-commons-4.1.2-sources.jar!/org/springframework/cloud/client/serviceregistry/AbstractAutoServiceRegistration.java" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="KubernetesApiProvider">{
-  &quot;configuredContexts&quot;: [
-    {
-      &quot;name&quot;: &quot;docker-desktop&quot;,
-      &quot;kubeConfigUrl&quot;: &quot;file:///Users/yang99/.kube/config&quot;
-    }
-  ],
-  &quot;isMigrated&quot;: true
-}</component>
-  <component name="KubernetesSettings">
-    <option name="contextName" value="docker-desktop" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="customMavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
-        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
-        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
-        <option name="useMavenConfig" value="false" />
-        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2hPGNDvxEORwgGi0P9E3JkhYHFN" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="39VsiD7jPJrn8MG8vTYsDHdKRFp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.BeautifulArrangement.executor": "Debug",
-    "Application.Main.executor": "Debug",
-    "Gradle.构建 spring-aware.executor": "Run",
-    "HTTP 请求.generated-requests | #1.executor": "Run",
-    "HTTP 请求.generated-requests | #2.executor": "Run",
-    "HTTP 请求.generated-requests | #37.executor": "Run",
-    "HTTP 请求.generated-requests | #38.executor": "Run",
-    "HTTP 请求.generated-requests | #39.executor": "Run",
-    "JUnit.AsyncTest.out.executor": "Debug",
-    "Maven.spring-all-study [package].executor": "Run",
-    "Maven.spring-aware [clean].executor": "Run",
-    "Maven.spring-aware [package].executor": "Run",
-    "Maven.spring-study [clean].executor": "Run",
-    "Maven.spring-study [package].executor": "Run",
-    "Maven.study-java [clean].executor": "Run",
-    "Maven.study-java [install].executor": "Run",
-    "Maven.study-java [package].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "Spring Boot.DiscoveryStudyApplication (1).executor": "Debug",
-    "Spring Boot.DiscoveryStudyApplication.executor": "Run",
-    "Spring Boot.JavaBaseApplication.executor": "Run",
-    "Spring Boot.NacosStudyApplication.executor": "Debug",
-    "Spring Boot.RedissonStudyApplication.executor": "Debug",
-    "Spring Boot.SpringAwareApplication (1).executor": "Run",
-    "Spring Boot.SpringAwareApplication.executor": "Run",
-    "Spring Boot.SpringStudyApplication.executor": "Run",
-    "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/yang99/Desktop/study-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/yang99/Desktop/spring-all-study/arithmetic/src/main/java/com/sxlyb/Main.java",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.35402298",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.BeautifulArrangement.executor": "Run",
-    "应用程序.Boot.executor": "Debug",
-    "应用程序.ClassA.executor": "Debug",
-    "应用程序.ConsumerTest.executor": "Debug",
-    "应用程序.StringTest.executor": "Debug",
-    "应用程序.Test.executor": "Debug",
-    "应用程序.Test1.executor": "Debug",
-    "应用程序.Test2.executor": "Debug",
-    "应用程序.com.java.json.Test.executor": "Debug",
-    "应用程序.main.executor": "Run"
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="ReactorSettings">
-    <option name="notificationShown" value="true" />
-  </component>
-  <component name="RebelAgentSelection">
-    <selection>jr</selection>
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/redisson" />
-      <recent name="$PROJECT_DIR$/spring/spring-mvv" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="configurationTypes">
-      <set>
-        <option value="MicronautRunConfigurationType" />
-        <option value="QuarkusRunConfigurationType" />
-        <option value="SpringBootApplicationConfigurationType" />
-      </set>
-    </option>
-  </component>
-  <component name="RunManager" selected="Spring Boot.SpringAwareApplication (1)">
-    <configuration name="BeautifulArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yang.BeautifulArrangement" />
-      <module name="arithmetic-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BeautifulArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yang.BeautifulArrangement" />
-      <module name="arithmetic-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.base.java.ClassA" />
-      <module name="java-base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.base.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.date.Test" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.date.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.json.Test2" />
-      <module name="demo-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.json.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.json.Test2" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.json.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.java.json.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.json.Test" />
-      <module name="demo-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.json.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.java.json.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.json.Test" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.json.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.base.java.main" />
-      <module name="java-base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.base.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiscoveryStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+  <component name="RunManager" selected="Spring Boot.DiscoveryStudyApplication">
+    <configuration name="DiscoveryStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="discovery-study" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.nacos.DiscoveryStudyApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiscoveryStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="discovery-study" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.nacos.DiscoveryStudyApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="java-base" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.base.java.JavaBaseApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RedissonStudy1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="redisson-study-1" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.redissonstudy1.RedissonStudy1Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RedissonStudy1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="redisson-study-1" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.redissonstudy1.RedissonStudy1Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -378,27 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RedissonStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="redisson-study" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.redisson.RedissonStudyApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringAwareApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="spring-aware" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.springaware.SpringAwareApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringAwareApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="spring-aware" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.springaware.SpringAwareApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpringAwareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="spring-aware" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.springaware.SpringAwareApplication" />
@@ -406,42 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringAwareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="spring-aware" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.springaware.SpringAwareApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="spring" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.study.SpringStudyApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="spring" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.study.SpringStudyApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Spring Boot.DiscoveryStudyApplication" />
-      <item itemvalue="Spring Boot.JavaBaseApplication" />
-      <item itemvalue="Spring Boot.RedissonStudy1Application" />
-      <item itemvalue="Spring Boot.RedissonStudyApplication" />
-      <item itemvalue="Spring Boot.SpringAwareApplication (1)" />
-      <item itemvalue="Spring Boot.SpringAwareApplication" />
-      <item itemvalue="Spring Boot.SpringStudyApplication" />
-      <item itemvalue="应用程序.BeautifulArrangement" />
-      <item itemvalue="应用程序.ClassA" />
-      <item itemvalue="应用程序.Test2" />
-      <item itemvalue="应用程序.Test" />
-      <item itemvalue="应用程序.com.java.json.Test" />
-      <item itemvalue="应用程序.main" />
-    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -451,386 +93,19 @@
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="911016fa-2bc3-432a-95ae-e3d3a0495fcf" name="更改" comment="" />
-      <created>1717488257074</created>
+      <changelist id="41e1e354-12bd-4e7f-b13a-455b8e5a6b66" name="更改" comment="" />
+      <created>1770792698136</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1717488257074</updated>
-      <workItem from="1717488258355" duration="4442000" />
-      <workItem from="1717579632086" duration="4608000" />
-      <workItem from="1718183719113" duration="7437000" />
-      <workItem from="1718242910578" duration="881000" />
-      <workItem from="1718244240251" duration="30000" />
-      <workItem from="1718330798834" duration="2386000" />
-      <workItem from="1718590476995" duration="1364000" />
-      <workItem from="1718871511643" duration="2018000" />
-      <workItem from="1719219426827" duration="2942000" />
-      <workItem from="1719285915833" duration="819000" />
-      <workItem from="1719298956951" duration="254000" />
-      <workItem from="1719299238855" duration="8483000" />
-      <workItem from="1719391913204" duration="4245000" />
-      <workItem from="1719901819700" duration="6524000" />
-      <workItem from="1719973639407" duration="48000" />
-      <workItem from="1719973710713" duration="165000" />
-      <workItem from="1719973884494" duration="6000" />
-      <workItem from="1719997831917" duration="13000" />
-      <workItem from="1720425420401" duration="2714000" />
-      <workItem from="1720518719419" duration="31000" />
-      <workItem from="1720603952539" duration="626000" />
-      <workItem from="1721206210604" duration="4733000" />
-      <workItem from="1721292014315" duration="3324000" />
-      <workItem from="1721370886385" duration="5763000" />
-      <workItem from="1721381826075" duration="786000" />
-      <workItem from="1721617779373" duration="118000" />
-      <workItem from="1721619486559" duration="3099000" />
-      <workItem from="1722496636390" duration="2091000" />
-      <workItem from="1722564273008" duration="26000" />
-      <workItem from="1723010288811" duration="2016000" />
-      <workItem from="1723021065678" duration="1416000" />
-      <workItem from="1723031188331" duration="56000" />
-      <workItem from="1723078837097" duration="2084000" />
-      <workItem from="1723105465445" duration="1416000" />
-      <workItem from="1723186545664" duration="5974000" />
-      <workItem from="1723195936440" duration="123000" />
-      <workItem from="1723196083667" duration="88000" />
-      <workItem from="1723196313224" duration="22000" />
-      <workItem from="1723196442285" duration="75000" />
-      <workItem from="1723196562974" duration="595000" />
-      <workItem from="1723197500505" duration="245000" />
-      <workItem from="1723197764737" duration="7000" />
-      <workItem from="1723197801605" duration="321000" />
-      <workItem from="1723215953072" duration="100000" />
-      <workItem from="1723598491825" duration="42000" />
-      <workItem from="1723598544317" duration="7971000" />
-      <workItem from="1723623482725" duration="231000" />
-      <workItem from="1723623908120" duration="937000" />
-      <workItem from="1723691227995" duration="16000" />
-      <workItem from="1723706357516" duration="4105000" />
-      <workItem from="1723770347562" duration="3251000" />
-      <workItem from="1723792781115" duration="2915000" />
-      <workItem from="1723899131088" duration="11000" />
-      <workItem from="1723901289623" duration="772000" />
-      <workItem from="1723997000110" duration="2815000" />
-      <workItem from="1724036816823" duration="42000" />
-      <workItem from="1724036945261" duration="54000" />
-      <workItem from="1724048052131" duration="6571000" />
-      <workItem from="1724124541631" duration="4969000" />
-      <workItem from="1724140343491" duration="8726000" />
-      <workItem from="1724228249190" duration="1251000" />
-      <workItem from="1724288840670" duration="9000" />
-      <workItem from="1724773794093" duration="977000" />
-      <workItem from="1724836360598" duration="695000" />
-      <workItem from="1724837075424" duration="1097000" />
-      <workItem from="1724911059444" duration="1125000" />
-      <workItem from="1724912947817" duration="301000" />
-      <workItem from="1725073190421" duration="13000" />
-      <workItem from="1725257638504" duration="2813000" />
-      <workItem from="1725504879773" duration="2341000" />
-      <workItem from="1725601690543" duration="613000" />
-      <workItem from="1728370595477" duration="2443000" />
-      <workItem from="1731491640663" duration="2000" />
-      <workItem from="1731491723611" duration="46000" />
-      <workItem from="1731491780983" duration="178000" />
-      <workItem from="1731642010112" duration="403000" />
-      <workItem from="1731642421258" duration="32000" />
-      <workItem from="1731642466124" duration="4289000" />
-      <workItem from="1731652096287" duration="4476000" />
-      <workItem from="1732073745529" duration="617000" />
-      <workItem from="1732266387041" duration="1226000" />
-      <workItem from="1732268921381" duration="9000" />
-      <workItem from="1732928573324" duration="629000" />
-      <workItem from="1732977633008" duration="598000" />
-      <workItem from="1733018670806" duration="254000" />
-      <workItem from="1733018944055" duration="2816000" />
-      <workItem from="1733553758381" duration="5406000" />
-      <workItem from="1733706682895" duration="6525000" />
-      <workItem from="1733727253551" duration="17000" />
-      <workItem from="1734142957527" duration="2352000" />
-      <workItem from="1734145389482" duration="44000" />
-      <workItem from="1734427477205" duration="670000" />
-      <workItem from="1734522563930" duration="13000" />
-      <workItem from="1738744601336" duration="96000" />
-      <workItem from="1738744712805" duration="72000" />
-      <workItem from="1738744793877" duration="15000" />
-      <workItem from="1738744855522" duration="3378000" />
-      <workItem from="1738803890849" duration="120000" />
-      <workItem from="1738804020858" duration="673000" />
-      <workItem from="1738804704168" duration="1410000" />
-      <workItem from="1738811594779" duration="656000" />
-      <workItem from="1738821443106" duration="584000" />
-      <workItem from="1738822037982" duration="1309000" />
-      <workItem from="1738888408688" duration="3000" />
-      <workItem from="1738909935985" duration="109000" />
-      <workItem from="1738910054802" duration="1387000" />
-      <workItem from="1742975062162" duration="134000" />
-      <workItem from="1747122863356" duration="3509000" />
-      <workItem from="1747133065571" duration="1087000" />
-      <workItem from="1747135001839" duration="68000" />
-      <workItem from="1747136226689" duration="12440000" />
-      <workItem from="1747229535984" duration="713000" />
-      <workItem from="1747292415754" duration="18000" />
-      <workItem from="1747301913522" duration="486000" />
-      <workItem from="1747380437618" duration="3943000" />
-      <workItem from="1747407151497" duration="416000" />
-      <workItem from="1747407577658" duration="18000" />
-      <workItem from="1747407976780" duration="103000" />
-      <workItem from="1747408199721" duration="1359000" />
-      <workItem from="1747439394458" duration="7651000" />
-      <workItem from="1747497670108" duration="692000" />
-      <workItem from="1747657828801" duration="724000" />
-      <workItem from="1747663858687" duration="24000" />
-      <workItem from="1747701706317" duration="2899000" />
-      <workItem from="1747811304836" duration="1197000" />
-      <workItem from="1747875964666" duration="598000" />
-      <workItem from="1758848028466" duration="4495000" />
-      <workItem from="1758867790027" duration="4173000" />
-      <workItem from="1758954361958" duration="9446000" />
-      <workItem from="1759075680013" duration="617000" />
-      <workItem from="1759108160739" duration="2300000" />
-      <workItem from="1761792449353" duration="1217000" />
-      <workItem from="1761815831667" duration="597000" />
-      <workItem from="1761893079568" duration="13000" />
-      <workItem from="1762735443999" duration="5897000" />
-      <workItem from="1762846958191" duration="6000" />
-      <workItem from="1764747077126" duration="1255000" />
-      <workItem from="1767937364815" duration="1034000" />
-      <workItem from="1767946612160" duration="186000" />
-      <workItem from="1767948899608" duration="7000" />
-      <workItem from="1767949060315" duration="11000" />
-      <workItem from="1767949618102" duration="8000" />
-      <workItem from="1767949791064" duration="767000" />
-      <workItem from="1767950591427" duration="71000" />
-      <workItem from="1768179055904" duration="15000" />
-      <workItem from="1768179146363" duration="6000" />
-      <workItem from="1768179160365" duration="1183000" />
-      <workItem from="1768186542302" duration="295000" />
-      <workItem from="1768287313286" duration="2022000" />
-      <workItem from="1768351636413" duration="604000" />
-      <workItem from="1768984036570" duration="1000" />
-      <workItem from="1770777884663" duration="9000" />
+      <updated>1770792698136</updated>
+      <workItem from="1770792699200" duration="22000" />
     </task>
-    <task id="LOCAL-00001" summary="[init]">
-      <option name="closed" value="true" />
-      <created>1718590625291</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1718590625291</updated>
-    </task>
-    <task id="LOCAL-00002" summary="[init]">
-      <option name="closed" value="true" />
-      <created>1723792834150</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1723792834150</updated>
-    </task>
-    <task id="LOCAL-00003" summary="[init]">
-      <option name="closed" value="true" />
-      <created>1723792857590</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1723792857590</updated>
-    </task>
-    <task id="LOCAL-00004" summary="[init]">
-      <option name="closed" value="true" />
-      <created>1723793023688</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1723793023688</updated>
-    </task>
-    <task id="LOCAL-00005" summary="[init] 初始化代码整理">
-      <option name="closed" value="true" />
-      <created>1724836233019</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1724836233020</updated>
-    </task>
-    <task id="LOCAL-00006" summary="[init] 初始化代码整理">
-      <option name="closed" value="true" />
-      <created>1728370646321</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1728370646321</updated>
-    </task>
-    <task id="LOCAL-00007" summary="[init] 初始化代码整理">
-      <option name="closed" value="true" />
-      <created>1728370692341</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1728370692341</updated>
-    </task>
-    <task id="LOCAL-00008" summary="[init] 初始化代码整理">
-      <option name="closed" value="true" />
-      <created>1742975165098</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1742975165098</updated>
-    </task>
-    <task id="LOCAL-00009" summary="[init] 初始化代码整理">
-      <option name="closed" value="true" />
-      <created>1758848684194</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1758848684194</updated>
-    </task>
-    <task id="LOCAL-00010" summary="[init] 初始化代码整理">
-      <option name="closed" value="true" />
-      <created>1759020787082</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1759020787082</updated>
-    </task>
-    <task id="LOCAL-00011" summary="[init] 初始化代码整理">
-      <option name="closed" value="true" />
-      <created>1767937370750</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1767937370750</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/spring-study" />
-    </ignored-roots>
-    <MESSAGE value="[init]" />
-    <MESSAGE value="[init] 初始化代码整理" />
-    <option name="LAST_COMMIT_MESSAGE" value="[init] 初始化代码整理" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.1.0/spring-cloud-starter-alibaba-nacos-discovery-2023.0.1.0-sources.jar!/com/alibaba/cloud/nacos/discovery/NacosServiceDiscovery.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/2.3.2/nacos-client-2.3.2-sources.jar!/com/alibaba/nacos/client/naming/remote/http/NamingHttpClientProxy.java</url>
-          <line>130</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/6.1.5/spring-context-6.1.5-sources.jar!/org/springframework/context/support/GenericApplicationContext.java</url>
-          <line>413</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/arithmetic-study/src/main/java/com/sxlyb/Main.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
-          <line>414</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.0.13/spring-web-6.0.13.jar!/org/springframework/web/context/AbstractContextLoaderInitializer.class</url>
-          <line>22</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.1.5/spring-web-6.1.5-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java</url>
-          <line>169</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.1.5/spring-web-6.1.5-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java</url>
-          <line>144</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.1.5/spring-web-6.1.5-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java</url>
-          <line>142</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java</url>
-          <line>297</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
-          <line>504</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
-          <line>706</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-study/src/main/java/com/java/spring/Boot.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-study/src/main/java/com/java/spring/Boot.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spring/spring-aware/src/main/java/com/yang/springaware/TestAware.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/redisson/redisson-study/src/main/java/com/yang/redisson/RedissonStudyApplication.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
-          <line>245</line>
-          <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
-          <line>231</line>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
-          <line>114</line>
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
-          <line>215</line>
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/demo-study/src/main/java/com/java/json/Test.java</url>
-          <line>229</line>
-          <option name="timeStamp" value="133" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
