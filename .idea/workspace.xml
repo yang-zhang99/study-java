@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="911016fa-2bc3-432a-95ae-e3d3a0495fcf" name="更改" comment="[init] 初始化代码整理">
-      <change afterPath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/ClassI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/JavaBaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/com/base/java/JavaBaseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/spring-aware/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring-aware/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/spring-aware/src/main/java/com/yang/springaware/SpringAwareApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring-aware/src/main/java/com/yang/springaware/SpringAwareApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +113,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -147,16 +149,20 @@
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "Spring Boot.DiscoveryStudyApplication (1).executor": "Debug",
-    "Spring Boot.DiscoveryStudyApplication.executor": "Debug",
+    "Spring Boot.DiscoveryStudyApplication.executor": "Run",
     "Spring Boot.JavaBaseApplication.executor": "Run",
     "Spring Boot.NacosStudyApplication.executor": "Debug",
     "Spring Boot.RedissonStudyApplication.executor": "Debug",
+    "Spring Boot.SpringAwareApplication (1).executor": "Run",
     "Spring Boot.SpringAwareApplication.executor": "Run",
     "Spring Boot.SpringStudyApplication.executor": "Run",
     "com.codeium.enabled": "true",
@@ -174,7 +180,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.35402298",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "应用程序.BeautifulArrangement.executor": "Run",
     "应用程序.Boot.executor": "Debug",
@@ -212,7 +218,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.main">
+  <component name="RunManager" selected="Spring Boot.SpringAwareApplication (1)">
     <configuration name="BeautifulArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yang.BeautifulArrangement" />
       <module name="arithmetic-study" />
@@ -252,6 +258,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.date.Test" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.json.Test2" />
       <module name="demo-study" />
@@ -271,19 +290,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.java.json.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.date.Test" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,27 +435,19 @@
       <item itemvalue="Spring Boot.SpringAwareApplication (1)" />
       <item itemvalue="Spring Boot.SpringAwareApplication" />
       <item itemvalue="Spring Boot.SpringStudyApplication" />
-      <item itemvalue="应用程序.main" />
       <item itemvalue="应用程序.BeautifulArrangement" />
       <item itemvalue="应用程序.ClassA" />
       <item itemvalue="应用程序.Test2" />
+      <item itemvalue="应用程序.Test" />
       <item itemvalue="应用程序.com.java.json.Test" />
+      <item itemvalue="应用程序.main" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.main" />
-        <item itemvalue="应用程序.ClassA" />
-        <item itemvalue="应用程序.com.java.json.Test" />
-        <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.BeautifulArrangement" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
       </set>
     </attachedChunks>
   </component>
@@ -601,6 +599,21 @@
       <workItem from="1762735443999" duration="5897000" />
       <workItem from="1762846958191" duration="6000" />
       <workItem from="1764747077126" duration="1255000" />
+      <workItem from="1767937364815" duration="1034000" />
+      <workItem from="1767946612160" duration="186000" />
+      <workItem from="1767948899608" duration="7000" />
+      <workItem from="1767949060315" duration="11000" />
+      <workItem from="1767949618102" duration="8000" />
+      <workItem from="1767949791064" duration="767000" />
+      <workItem from="1767950591427" duration="71000" />
+      <workItem from="1768179055904" duration="15000" />
+      <workItem from="1768179146363" duration="6000" />
+      <workItem from="1768179160365" duration="1183000" />
+      <workItem from="1768186542302" duration="295000" />
+      <workItem from="1768287313286" duration="2022000" />
+      <workItem from="1768351636413" duration="604000" />
+      <workItem from="1768984036570" duration="1000" />
+      <workItem from="1770777884663" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="[init]">
       <option name="closed" value="true" />
@@ -682,7 +695,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759020787082</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="[init] 初始化代码整理">
+      <option name="closed" value="true" />
+      <created>1767937370750</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1767937370750</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -804,16 +825,19 @@
           <line>229</line>
           <option name="timeStamp" value="133" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-base/src/main/java/com/base/java/JavaBaseApplication.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
