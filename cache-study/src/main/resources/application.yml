@@ -1,0 +1,10 @@
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: caches
+spring:
+  cache:
+    cache-names:
+      - UCS_SCENE_SEND_TOTAL_COUNT_CACHE

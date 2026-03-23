@@ -3,19 +3,23 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/arithmetic-study/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arithmetic-study/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache-study/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache-study/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-study/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-study/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/discovery-study/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/discovery-study/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redisson-study/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redisson-study/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring/spring-aware/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring/spring-aware/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring/spring-mvv/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring/spring-mvv/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study/spring-aware/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study/spring-aware/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study/spring-mvv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study/spring-mvv/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-study/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file:///src/main/java" charset="UTF-8" />
+    <file url="file:///src/main/resources" charset="UTF-8" />
   </component>
 </project>

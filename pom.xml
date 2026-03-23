@@ -12,11 +12,11 @@
     
     <modules>
         <module>arithmetic-study</module>
+        <module>cache-study</module>
         <module>demo-study</module>
         <module>discovery-study</module>
         <module>redisson-study</module>
-        <module>spring</module>
-        <!--        <module>redisson</module>-->
+        <module>spring-study</module>
     </modules>
     
     <properties>
