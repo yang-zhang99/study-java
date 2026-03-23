@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e1e354-12bd-4e7f-b13a-455b8e5a6b66" name="更改" comment="Change">
-      <change afterPath="$PROJECT_DIR$/cache-study/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache-study/src/main/java/com/y/CacheTestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache-study/src/main/java/com/y/SpringCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache-study/src/main/java/com/y/SpringCacheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache-study/src/main/java/com/y/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache-study/src/test/java/com/y/SpringCacheTest.java" afterDir="false" />
+    <list default="true" id="1869d6fd-9897-48e4-8c19-77dba1a697d9" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-study/spring-aware/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-study/spring-aware/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-study/spring-mvv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-study/spring-mvv/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,133 +18,60 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
-      <entry key="_/Users/yang99/Code/study-java" value="39VsiD7jPJrn8MG8vTYsDHdKRFp" />
+      <entry key="_/Users/yang99/Code/study-java" value="3BL7NCOjbau2ZE9wdQz9B0JgwqE" />
     </persistenceIdMap>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence">{}</component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/apache-maven-3.9.9" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.9.9/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="39VsiD7jPJrn8MG8vTYsDHdKRFp" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3BL7NCOjbau2ZE9wdQz9B0JgwqE" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.SpringCacheTest.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.SpringCacheTest.testSimpleLimit.executor&quot;: &quot;Debug&quot;,
-    &quot;Maven.study-java [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.study-java [package].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;Spring Boot.SpringStudyApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yang99/Code/study-java/cache-study/src/main/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.study-java [clean].executor": "Run",
+    "Maven.study-java [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cache-study/src/main/resources" />
-      <recent name="$PROJECT_DIR$/cache-study/src/main/java/com/y" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.y" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.y" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="configurationTypes">
-      <set>
-        <option value="KtorApplicationConfigurationType" />
-        <option value="MicronautRunConfigurationType" />
-        <option value="QuarkusRunConfigurationType" />
-        <option value="SpringBootApplicationConfigurationType" />
-      </set>
-    </option>
-    <option name="configurationStatuses">
-      <map>
-        <entry key="SpringBootApplicationConfigurationType">
-          <value>
-            <map>
-              <entry key="SpringStudyApplication" value="STOPPED" />
-            </map>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="RunManager" selected="Spring Boot.SpringStudyApplication">
-    <configuration name="SpringCacheTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cache-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.y.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.y" />
-      <option name="MAIN_CLASS_NAME" value="com.y.SpringCacheTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringCacheTest.testSimpleLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cache-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.y.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.y" />
-      <option name="MAIN_CLASS_NAME" value="com.y.SpringCacheTest" />
-      <option name="METHOD_NAME" value="testSimpleLimit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.DiscoveryStudyApplication">
     <configuration name="DiscoveryStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="discovery-study" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.nacos.DiscoveryStudyApplication" />
@@ -171,26 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cache-study" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.y.SpringStudyApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.y.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.SpringStudyApplication" />
-        <item itemvalue="JUnit.SpringCacheTest.testSimpleLimit" />
-        <item itemvalue="JUnit.SpringCacheTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -202,37 +104,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="41e1e354-12bd-4e7f-b13a-455b8e5a6b66" name="更改" comment="" />
-      <created>1770792698136</created>
+      <changelist id="1869d6fd-9897-48e4-8c19-77dba1a697d9" name="更改" comment="" />
+      <created>1774256456050</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1770792698136</updated>
-      <workItem from="1770792699200" duration="4405000" />
-      <workItem from="1770858675092" duration="1000" />
-      <workItem from="1773640459423" duration="892000" />
-      <workItem from="1773646694964" duration="6386000" />
-      <workItem from="1773708052383" duration="3995000" />
-      <workItem from="1773718157053" duration="383000" />
-      <workItem from="1773729528980" duration="81000" />
-      <workItem from="1774255590907" duration="61000" />
+      <updated>1774256456050</updated>
+      <workItem from="1774256457453" duration="1422000" />
     </task>
-    <task id="LOCAL-00001" summary="Change">
-      <option name="closed" value="true" />
-      <created>1770792783410</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1770792783410</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
